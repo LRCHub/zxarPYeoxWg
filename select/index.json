@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "mimizuqu",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2025-12-17T04:33:12.634505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "mimizuqu (feat. DAZBEE)",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/01_mimizuqu_(feat._DAZBEE)_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "mimizuqu (feat. ダズビー)",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/02_mimizuqu_(feat._ダズビー)_sasakure.UK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mimizuqu",
+      "artist": "sasakure.UK, ダズビー",
+      "has_synced": false,
+      "path": "select/pl_01_mimizuqu_sasakure.UK,_ダズビー.txt"
+    }
+  ]
+}
